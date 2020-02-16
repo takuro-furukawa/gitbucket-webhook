@@ -1,0 +1,9 @@
+server:
+  port: 9999
+
+jenkins:
+  host: localhost
+  port: 9090
+  user: user001
+  token: 11bd3e48eb20d4fa1f99adc257f2c54d15
+  job: update-version
